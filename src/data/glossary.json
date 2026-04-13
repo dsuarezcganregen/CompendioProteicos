@@ -1,267 +1,272 @@
 [
   {
-    "term": "Antinutricional",
-    "abbreviation": "",
-    "definition": "Compuesto presente en un alimento que interfiere con la digestión, absorción o utilización de nutrientes. Ejemplos: taninos, mimosina, saponinas, HCN, oxalatos. Su efecto depende de la concentración, especie animal y procesamiento del alimento."
+    "term": "Antinutricional / Compuesto secundario",
+    "abbreviation": null,
+    "definition": "Sustancia presente naturalmente en una planta que puede interferir con la digestión o causar efectos negativos si se consume en exceso. Ejemplos: taninos, mimosina, ácido cianhídrico. No significa que la planta sea mala — significa que hay que respetar dosis y procesamiento."
   },
   {
     "term": "Banco de proteína",
-    "abbreviation": "",
-    "definition": "Área de la finca sembrada en alta densidad con una leguminosa u otra forrajera de alta proteína cruda, destinada a corte o pastoreo controlado (2–3 h/día) para suplementar la dieta base de gramíneas. Generalmente ocupa 20–30% del área de pastoreo."
+    "abbreviation": null,
+    "definition": "Parcela sembrada densamente con una especie forrajera de alto contenido proteico (como leucaena o cratylia), a la cual el ganado accede por tiempo limitado (2–3 horas/día) para complementar su dieta base de gramínea."
   },
   {
     "term": "Base seca",
-    "abbreviation": "BS",
-    "definition": "Forma de expresar la composición de un alimento eliminando el agua (humedad). Permite comparar nutrientes entre alimentos con diferente contenido de humedad. Se obtiene secando la muestra a 60–105 °C hasta peso constante."
+    "abbreviation": "BS o MS",
+    "definition": "El valor nutricional de un alimento después de quitarle toda el agua. Se usa para comparar alimentos en igualdad de condiciones, porque un pasto fresco tiene 70–80% de agua mientras que un heno tiene 10–15%."
   },
   {
     "term": "Bloques multinutricionales",
-    "abbreviation": "BMN",
-    "definition": "Suplementos sólidos fabricados con urea, melaza, minerales, sal, cal y a veces harina de leguminosas o subproductos, compactados en bloques. El animal los lame ad libitum, regulando su consumo. Aportan NNP, energía y minerales para mejorar la fermentación ruminal."
+    "abbreviation": null,
+    "definition": "Suplemento sólido compactado que contiene urea, melaza, minerales, sal y a veces harina de forraje. El animal lo lame gradualmente, regulando su propio consumo."
   },
   {
     "term": "Brevicaducifolia",
-    "abbreviation": "",
-    "definition": "Planta que pierde las hojas por un período breve (semanas), generalmente en la parte más seca del año, y las recupera rápidamente al inicio de las lluvias. Intermedia entre perennifolia y caducifolia."
+    "abbreviation": null,
+    "definition": "Planta que pierde las hojas por un período corto (semanas, no meses) y las repone rápidamente."
   },
   {
     "term": "By-pass",
-    "abbreviation": "",
-    "definition": "Proteína sobrepasante o de escape ruminal. Fracción proteica que no se degrada en el rumen y llega intacta al abomaso e intestino delgado, donde se digiere enzimáticamente. Aporta aminoácidos directamente al animal. Importante para producción de leche y crecimiento."
+    "abbreviation": null,
+    "definition": "Proteína que no se degrada en el rumen sino que pasa intacta al intestino delgado donde se absorbe directamente como aminoácidos. Valiosa para animales de alta producción (vacas lecheras, novillos en crecimiento acelerado). También llamada proteína sobrepasante."
   },
   {
     "term": "Caducifolia",
-    "abbreviation": "",
-    "definition": "Planta que pierde completamente sus hojas durante una estación desfavorable (seca o fría). Es una estrategia de supervivencia para reducir la pérdida de agua. Implica que la planta no produce forraje foliar durante ese período."
+    "abbreviation": null,
+    "definition": "Planta que pierde todas sus hojas durante una época del año, generalmente la sequía en el trópico o el invierno en zonas templadas."
   },
   {
     "term": "Cerca viva",
-    "abbreviation": "",
-    "definition": "Hilera de árboles o arbustos plantados como postes vivos para sostener alambre de púas o eléctrico. Reemplaza postes muertos, produce forraje, sombra, leña y fija nitrógeno (si es leguminosa). Especies comunes: Gliricidia, Erythrina, Bursera."
+    "abbreviation": null,
+    "definition": "Línea de árboles o arbustos plantados como postes vivos en lugar de postes muertos. Además de sostener el alambre, producen forraje, sombra, leña y fijan nitrógeno al suelo."
   },
   {
     "term": "Compuestos cianogénicos",
-    "abbreviation": "",
-    "definition": "Glucósidos que al romperse (masticación, marchitamiento, daño celular) liberan ácido cianhídrico (HCN), un veneno que bloquea la respiración celular. Presentes en sorgo joven, chaya, yuca. El secado y la cocción los destruyen."
+    "abbreviation": null,
+    "definition": "Sustancias presentes en algunas plantas (como yuca, chaya, sorgo joven) que al romperse liberan ácido cianhídrico (HCN), un veneno. Se eliminan marchitando, secando al sol o cocinando."
   },
   {
     "term": "Corte y acarreo",
-    "abbreviation": "",
-    "definition": "Sistema de alimentación donde el forraje se corta en el campo (manual o mecánicamente), se transporta y se ofrece al ganado en comedero. Permite controlar la cantidad y calidad del forraje ofrecido, reducir desperdicio y manejar especies que no toleran pastoreo directo."
+    "abbreviation": null,
+    "definition": "Sistema en el que el forraje se cosecha con machete o máquina y se lleva al comedero, en lugar de que el animal vaya al potrero a comerlo."
   },
   {
     "term": "Degradabilidad ruminal",
-    "abbreviation": "",
-    "definition": "Proporción de un alimento que es descompuesta por los microorganismos del rumen en un tiempo determinado. Se mide in situ (bolsas de nylon en el rumen) o in vitro. Afecta la disponibilidad de nutrientes para el animal y la síntesis de proteína microbiana."
+    "abbreviation": null,
+    "definition": "Porcentaje de un alimento que los microorganismos del rumen pueden descomponer y utilizar. Una degradabilidad alta significa que los microbios aprovechan bien ese alimento; demasiado alta puede significar que se pierde nitrógeno como amoniaco."
   },
   {
     "term": "Digestibilidad",
     "abbreviation": "DIVMS",
-    "definition": "Proporción de la materia seca de un alimento que es digerida y absorbida por el animal. DIVMS = Digestibilidad In Vitro de la Materia Seca. Valores >65% se consideran altos para forrajes tropicales. Es el mejor predictor individual del valor nutritivo de un forraje."
+    "definition": "Digestibilidad In Vitro de la Materia Seca. Es el porcentaje de un alimento que el animal realmente puede aprovechar. Un pasto con 50% de digestibilidad significa que el animal solo usa la mitad de lo que come; la otra mitad sale como estiércol."
   },
   {
     "term": "Ensilaje",
-    "abbreviation": "",
-    "definition": "Método de conservación de forraje verde mediante fermentación anaeróbica (sin oxígeno). El forraje picado se compacta y sella para que las bacterias lácticas produzcan ácido láctico, bajando el pH a <4.5 y preservando los nutrientes. Permite almacenar forraje por meses o años."
+    "abbreviation": null,
+    "definition": "Técnica de conservación de forraje que consiste en compactarlo y sellarlo sin aire (en bolsa, silo o trinchera) para que fermente anaeróbicamente. Preserva el valor nutritivo durante meses."
   },
   {
     "term": "Escarificación",
-    "abbreviation": "",
-    "definition": "Tratamiento mecánico, químico o térmico de la cubierta de la semilla para romper la dormancia y permitir la imbibición de agua y la germinación. Común en semillas de leguminosas con testa dura. Métodos: lija, agua caliente, ácido sulfúrico."
+    "abbreviation": null,
+    "definition": "Tratamiento a la semilla para romper o debilitar la cubierta dura y permitir la germinación. Puede ser con agua caliente, lija o ácido."
   },
   {
     "term": "Estaca",
-    "abbreviation": "",
-    "definition": "Fragmento de tallo o rama usado para propagación vegetativa (asexual). Se corta un trozo de 20–200 cm de madera madura, se planta en suelo húmedo y produce raíces y brotes. Método principal para establecer cercas vivas y algunas forrajeras como moringa y chaya."
+    "abbreviation": null,
+    "definition": "Trozo de tallo o rama que se planta directamente en el suelo para que enraíce y produzca una nueva planta. Muchas arbóreas tropicales se propagan así (gliricidia, chaya, cercas vivas)."
   },
   {
     "term": "FDN",
     "abbreviation": "FDN",
-    "definition": "Fibra Detergente Neutro. Mide el total de pared celular del alimento (celulosa + hemicelulosa + lignina). Indica el 'llenado' del rumen: a mayor FDN, menor consumo voluntario. Gramíneas tropicales: 60–75% FDN; leguminosas: 30–50%."
+    "definition": "Fibra Detergente Neutro. Mide la fibra total de un alimento (celulosa + hemicelulosa + lignina). A mayor FDN, más lleno se siente el animal y menos come. Las gramíneas tropicales tienen FDN alto (60–75%); las leguminosas tienen FDN más bajo (30–45%)."
   },
   {
     "term": "FDA",
     "abbreviation": "FDA",
-    "definition": "Fibra Detergente Ácido. Mide celulosa + lignina. Inversamente relacionada con la digestibilidad: a mayor FDA, menor digestibilidad. Un heno con >40% FDA tiene baja calidad; <30% se considera bueno."
+    "definition": "Fibra Detergente Ácido. Mide la porción menos digestible de la fibra (celulosa + lignina). A mayor FDA, menor digestibilidad."
   },
   {
     "term": "Fijación de nitrógeno",
-    "abbreviation": "",
-    "definition": "Proceso biológico por el cual bacterias del género Rhizobium (en nódulos de raíces de leguminosas) convierten el N₂ atmosférico en amonio (NH₄⁺) asimilable por la planta. Puede aportar 40–300 kg N/ha/año al suelo, equivalente a fertilizante nitrogenado sin costo."
+    "abbreviation": null,
+    "definition": "Capacidad de ciertas plantas (leguminosas) de tomar el nitrógeno del aire y convertirlo en fertilizante natural en el suelo, gracias a bacterias (Rhizobium) que viven en sus raíces. Es el equivalente a abonar sin comprar fertilizante."
   },
   {
     "term": "Fracción proteica",
-    "abbreviation": "",
-    "definition": "Cada una de las porciones de la proteína de un alimento clasificadas por su velocidad de degradación en el rumen: A (NNP, instantánea), B1 (rápida), B2 (intermedia), B3 (lenta) y C (indigerible). El balance entre fracciones determina cuánta proteína se usa en el rumen vs. cuánta llega al intestino."
+    "abbreviation": null,
+    "definition": "La proteína de un alimento se divide en fracciones según la velocidad con que los microbios del rumen la degradan: A (instantánea), B1 (rápida), B2 (intermedia), B3 (lenta) y C (indigestible). Cada fracción tiene un papel distinto en la nutrición del rumiante."
   },
   {
     "term": "Gramínea",
-    "abbreviation": "",
-    "definition": "Planta de la familia Poaceae (pastos). Son la base de la dieta bovina en pastoreo: Brachiaria, Megathyrsus (guinea), Cynodon (estrella), Panicum, Lolium (ryegrass). Generalmente tienen 6–12% PC — menos que las leguminosas — y alta fibra (FDN 60–75%)."
+    "abbreviation": null,
+    "definition": "Familia de los pastos (Poaceae). Incluye las bases forrajeras de la ganadería: Brachiaria, Megathyrsus (guinea/mombasa), Cynodon (estrella), Panicum, raigrás, avena forrajera, etc."
   },
   {
     "term": "HCN",
     "abbreviation": "HCN",
-    "definition": "Ácido cianhídrico o ácido prúsico. Veneno liberado por hidrólisis de glucósidos cianogénicos en plantas como sorgo, yuca y chaya. Bloquea la citocromo oxidasa, impidiendo la respiración celular. Dosis letal en bovinos: 2–4 mg/kg PV. Se destruye con calor y secado."
+    "definition": "Ácido cianhídrico. Veneno que se libera cuando se rompen los compuestos cianogénicos de ciertas plantas. En pequeñas cantidades el rumen lo detoxifica; en grandes cantidades puede matar al animal en minutos. Se previene respetando dosis y procesando el forraje (marchitar, secar, hervir)."
   },
   {
     "term": "Henificación",
-    "abbreviation": "",
-    "definition": "Proceso de deshidratación del forraje verde hasta <15% de humedad para su conservación como heno. Se realiza por exposición al sol y viento (2–5 días según clima). Preserva nutrientes pero pierde hojas si se manipula en exceso. El heno bien hecho conserva 85–90% del valor nutritivo original."
+    "abbreviation": null,
+    "definition": "Proceso de secar forraje al sol hasta reducir la humedad a menos de 15%, lo que permite almacenarlo como heno durante meses sin que se pudra."
   },
   {
     "term": "In situ",
-    "abbreviation": "",
-    "definition": "Técnica de evaluación de la degradabilidad de un alimento dentro del rumen del animal vivo. Se colocan muestras en bolsas de nylon (dacrón) que se suspenden en el rumen a través de una cánula, y se retiran a intervalos (6, 12, 24, 48, 72 h) para medir la desaparición de materia seca o proteína."
+    "abbreviation": null,
+    "definition": "Método de evaluación nutricional donde se coloca una bolsa con alimento dentro del rumen de un animal con fístula (cánula) para medir cuánto se degrada en un tiempo determinado (24h, 48h, 72h)."
   },
   {
     "term": "In vitro",
-    "abbreviation": "",
-    "definition": "Técnica de laboratorio que simula la digestión ruminal en tubos o frascos, usando líquido ruminal o enzimas. Permite estimar digestibilidad sin usar animales canulados. Menos precisa que in situ pero más práctica y reproducible."
+    "abbreviation": null,
+    "definition": "Evaluación nutricional hecha en laboratorio simulando las condiciones del rumen con líquido ruminal en tubos de ensayo, sin usar un animal vivo."
   },
   {
     "term": "Inoculación",
-    "abbreviation": "",
-    "definition": "Aplicación de bacterias Rhizobium específicas a la semilla de una leguminosa antes de la siembra para asegurar la formación de nódulos fijadores de nitrógeno en las raíces. Esencial cuando la leguminosa se siembra por primera vez en un suelo donde no existen las cepas compatibles."
+    "abbreviation": null,
+    "definition": "Aplicar bacterias benéficas (Rhizobium) a las semillas de leguminosas antes de sembrar, para asegurar que la planta pueda fijar nitrógeno desde el inicio. Especialmente importante en suelos donde esa leguminosa nunca se ha cultivado."
   },
   {
     "term": "Karst",
-    "abbreviation": "",
-    "definition": "Paisaje formado por disolución de roca caliza, caracterizado por suelo somero o ausente, roca expuesta, cavernas y cenotes. Común en Yucatán, Petén, Cuba. Los suelos kársticos son esqueléticos pero ricos en calcio — especies como el ramón y la chaya prosperan ahí."
+    "abbreviation": null,
+    "definition": "Tipo de suelo/paisaje formado por roca caliza con poco o nada de tierra encima. Común en la península de Yucatán, norte de Guatemala, partes de Cuba. Suelos muy someros, pedregosos, pero con pH alcalino."
   },
   {
     "term": "Leguminosa",
-    "abbreviation": "",
-    "definition": "Planta de la familia Fabaceae. Se caracterizan por formar nódulos radiculares con Rhizobium que fijan nitrógeno atmosférico. Generalmente tienen mayor PC (15–30%) que las gramíneas. Incluyen árboles (leucaena, eritrina), arbustos (cratylia) y herbáceas (trébol, veza, alfalfa)."
+    "abbreviation": null,
+    "definition": "Familia de plantas (Fabaceae) que incluye frijoles, tréboles, alfalfa, leucaena, mezquite y miles de especies más. La mayoría fija nitrógeno al suelo y tiene mayor contenido proteico que las gramíneas."
   },
   {
     "term": "Materia seca",
     "abbreviation": "MS",
-    "definition": "Porción del alimento que queda después de eliminar toda el agua. Es la base para expresar la composición nutricional y comparar alimentos. Un pasto fresco tiene ~20% MS (80% agua); el heno ~85% MS; los granos ~88% MS."
+    "definition": "Todo lo que queda de un alimento después de evaporar el agua. Es la base sobre la cual se expresan todos los valores nutricionales para poder comparar alimentos con diferente contenido de humedad."
   },
   {
     "term": "Melaza",
-    "abbreviation": "",
-    "definition": "Subproducto líquido viscoso de la industria azucarera (caña de azúcar o remolacha). Rica en azúcares solubles (45–55%), con ~3% PC y alta palatabilidad. Se usa como fuente de energía rápida, vehículo para urea en sales proteinadas, y agente aglutinante en bloques multinutricionales."
+    "abbreviation": null,
+    "definition": "Subproducto espeso y dulce de la industria azucarera. Rica en azúcares fermentables y minerales. Se usa como fuente de energía rápida en mezclas con urea, como palatabilizante y como aglutinante en bloques multinutricionales."
   },
   {
     "term": "Mimosina",
-    "abbreviation": "",
-    "definition": "Aminoácido no proteico tóxico presente en Leucaena leucocephala (3–5% MS en hojas jóvenes). Causa pérdida de pelo, bocio, baja fertilidad e infertilidad si se consume >30% de la dieta por tiempo prolongado. Degradada en rumen por la bacteria Synergistes jonesii. Se reduce con henificación y ensilaje."
+    "abbreviation": null,
+    "definition": "Aminoácido no proteico presente en leucaena. En concentraciones altas causa pérdida de pelo, bocio y problemas reproductivos. En bovinos, las bacterias ruminales la degradan parcialmente, pero se recomienda no superar 30% de leucaena en la dieta."
   },
   {
     "term": "NDT",
     "abbreviation": "NDT",
-    "definition": "Nutrientes Digestibles Totales. Medida de la energía disponible en un alimento. Suma las fracciones digestibles de proteína, fibra, extracto etéreo (×2.25) y carbohidratos no fibrosos. Un buen forraje tropical tiene >55% NDT; granos: 75–85%."
+    "definition": "Nutrientes Digestibles Totales. Medida de la energía total disponible en un alimento. A mayor NDT, más energía aporta. Un buen pasto tropical tiene 50–55% NDT; un grano de maíz tiene 80–85%."
   },
   {
     "term": "NNP",
     "abbreviation": "NNP",
-    "definition": "Nitrógeno No Proteico. Compuestos nitrogenados que no son proteína verdadera pero que los microorganismos del rumen pueden usar para sintetizar proteína microbiana. Principal fuente: urea (46% N, equivalente a 287% PC). Solo útil en rumiantes y solo con energía fermentable disponible."
+    "definition": "Nitrógeno No Proteico. Fuentes de nitrógeno que no son proteína verdadera pero que los microorganismos del rumen pueden convertir en proteína microbiana. El ejemplo clásico es la urea. Solo funciona si hay suficiente energía fermentable disponible simultáneamente."
   },
   {
     "term": "Proteína Cruda",
     "abbreviation": "PC",
-    "definition": "Contenido total de nitrógeno de un alimento multiplicado por 6.25. Incluye proteína verdadera + NNP. Es el indicador más usado para comparar el valor proteico de los alimentos. No indica calidad proteica (perfil de aminoácidos ni digestibilidad)."
+    "definition": "Contenido total de nitrógeno de un alimento multiplicado por 6.25. Incluye proteína verdadera + NNP. Es el indicador más usado para comparar el valor proteico de los alimentos."
   },
   {
     "term": "PDR",
     "abbreviation": "PDR",
-    "definition": "Proteína Degradable en Rumen. Fracción de la proteína cruda que es degradada por los microorganismos ruminales a amonio y aminoácidos, usados para sintetizar proteína microbiana. Incluye NNP y proteína verdadera soluble. El complemento es PNDR (proteína no degradable en rumen = by-pass)."
+    "definition": "Proteína Degradable en Rumen. La porción de la proteína que los microbios del rumen descomponen y usan para multiplicarse. Los microbios mismos se convierten en proteína microbiana que el animal digiere en el intestino."
   },
   {
     "term": "Perennifolia",
-    "abbreviation": "",
-    "definition": "Planta que mantiene su follaje verde durante todo el año, sin perder las hojas en ninguna estación. Importante en ganadería porque ofrece forraje continuo, especialmente valioso durante la época seca cuando las caducifolias están sin hojas."
+    "abbreviation": null,
+    "definition": "Planta que mantiene sus hojas verdes durante todo el año, sin perderlas en ninguna época."
   },
   {
     "term": "Pivotante",
-    "abbreviation": "",
-    "definition": "Tipo de sistema radicular con una raíz principal gruesa que crece verticalmente hacia abajo (como una zanahoria). Común en leguminosas arbóreas. Permite acceder a agua profunda (>5 m), tolerar sequía y anclar firmemente el árbol."
+    "abbreviation": null,
+    "definition": "Raíz principal que crece verticalmente hacia abajo, a veces varios metros de profundidad. Permite a la planta acceder a agua subterránea y sobrevivir sequías prolongadas. Típica de leguminosas arbóreas y muchas forrajeras."
   },
   {
     "term": "Proteína microbiana",
-    "abbreviation": "",
-    "definition": "Proteína sintetizada por los microorganismos (bacterias, protozoos, hongos) del rumen a partir de NNP, aminoácidos y péptidos. Es la principal fuente de aminoácidos para el bovino (50–80% de la proteína que absorbe). Tiene un perfil de aminoácidos muy completo y constante."
+    "abbreviation": null,
+    "definition": "Proteína producida por los microorganismos (bacterias, protozoos, hongos) que viven en el rumen. Cuando estos microbios mueren y pasan al intestino, el animal los digiere y absorbe como fuente de aminoácidos. Es la principal fuente de proteína para el rumiante."
+  },
+  {
+    "term": "Proteína sobrepasante",
+    "abbreviation": null,
+    "definition": "Sinónimo de by-pass. Proteína que no se degrada en el rumen sino que pasa intacta al intestino delgado donde se absorbe directamente como aminoácidos. Valiosa para animales de alta producción."
   },
   {
     "term": "Proteína verdadera",
-    "abbreviation": "",
-    "definition": "Fracción de la proteína cruda que está formada por cadenas de aminoácidos unidos por enlaces peptídicos. Se distingue del NNP (urea, amonio, etc.). La proteína verdadera tiene valor nutricional directo, mientras que el NNP solo es útil en rumiantes."
+    "abbreviation": null,
+    "definition": "Proteína compuesta por cadenas de aminoácidos unidos entre sí (péptidos y polipéptidos). A diferencia del NNP (como la urea), que solo aporta nitrógeno para que los microbios del rumen fabriquen su propia proteína, la proteína verdadera ya viene armada desde la planta o el alimento. Fuentes como la pasta de soya, la leucaena, el afrecho de cervecería y la mayoría de los forrajes contienen proteína verdadera. El análisis de Proteína Cruda (PC) no distingue entre proteína verdadera y NNP — por eso un alimento con 25% de PC no necesariamente tiene 25% de proteína verdadera."
   },
   {
     "term": "Ramoneo",
-    "abbreviation": "",
-    "definition": "Acción del ganado de consumir hojas, brotes y ramas de árboles y arbustos directamente en pie. Es el modo natural de consumo de forrajeras arbóreas en sistemas silvopastoriles. Se controla por tiempo de acceso (2–3 h/día) o por altura de poda."
+    "abbreviation": null,
+    "definition": "Acción del ganado de comer hojas, ramas tiernas y frutos directamente de árboles y arbustos, estirando el cuello o parándose en las patas traseras."
   },
   {
     "term": "Rhizobium",
-    "abbreviation": "",
-    "definition": "Género de bacterias del suelo que forman una simbiosis mutualista con raíces de leguminosas, formando nódulos donde fijan nitrógeno atmosférico (N₂) y lo convierten en formas asimilables. Cada especie de leguminosa tiene cepas de Rhizobium específicas o preferentes."
+    "abbreviation": null,
+    "definition": "Género de bacterias que vive en nódulos de las raíces de leguminosas y fija nitrógeno atmosférico. Cada especie de leguminosa tiene su cepa de Rhizobium específica o preferida."
   },
   {
     "term": "Rumen",
-    "abbreviation": "",
-    "definition": "Primer y mayor compartimento del estómago de los rumiantes (~80% del volumen total). Funciona como cámara de fermentación anaeróbica donde billones de microorganismos degradan fibra, sintetizan proteína microbiana y producen ácidos grasos volátiles (energía). Capacidad: 100–200 L en bovinos adultos."
+    "abbreviation": null,
+    "definition": "El primero y más grande de los cuatro compartimentos del estómago de los rumiantes (bovinos, ovinos, caprinos). Es una cámara de fermentación donde miles de millones de microorganismos descomponen la fibra y sintetizan proteína y vitaminas."
   },
   {
     "term": "Sales proteinadas",
-    "abbreviation": "",
-    "definition": "Mezclas de sal mineral con fuentes de NNP (urea), energía (melaza, harina de maíz) y a veces proteína verdadera (harina de leguminosas, afrecho), ofrecidas ad libitum. La sal limita el consumo voluntario. Mejoran la fermentación ruminal y el consumo de gramíneas de baja calidad."
+    "abbreviation": null,
+    "definition": "Mezclas de urea, sal mineral, melaza y frecuentemente harina de una fuente proteica (soya, leucaena, algodón), diseñadas para suplementar ganado en pastoreo. La sal limita el consumo voluntario, regulando la ingesta de urea."
   },
   {
     "term": "Saponinas",
-    "abbreviation": "",
-    "definition": "Glucósidos con propiedades tensoactivas (hacen espuma) presentes en muchas leguminosas. Pueden causar hemólisis (ruptura de glóbulos rojos), reducir palatabilidad y contribuir al timpanismo. En concentraciones moderadas tienen efecto defaunante (reducen protozoos ruminales), lo cual puede mejorar la eficiencia proteica."
+    "abbreviation": null,
+    "definition": "Compuestos naturales presentes en algunas plantas que forman espuma en contacto con agua. En concentraciones altas pueden causar hemólisis (destrucción de glóbulos rojos). Presentes en guanacaste, alfalfa y algunas leguminosas."
   },
   {
     "term": "Semicaducifolia",
-    "abbreviation": "",
-    "definition": "Planta que pierde parcialmente sus hojas (30–70%) durante la estación seca o fría, manteniendo follaje reducido. Intermedia entre perennifolia y caducifolia. Común en el trópico subhúmedo."
+    "abbreviation": null,
+    "definition": "Planta que pierde parte de sus hojas (no todas) durante la época seca o fría."
   },
   {
     "term": "SSP",
     "abbreviation": "SSP",
-    "definition": "Sistema Silvopastoril. Uso deliberado de árboles y/o arbustos combinados con pastos y ganado en la misma unidad de tierra. Tipos: árboles dispersos en potreros, cercas vivas, bancos de proteína, callejones forrajeros, SSP intensivos (leucaena + gramínea). Mejora productividad, bienestar animal y servicios ecosistémicos."
+    "definition": "Sistema Silvopastoril. Combinación intencional de árboles y/o arbustos con pastos y ganado en la misma parcela. Los árboles aportan sombra, forraje, fijación de nitrógeno y servicios ecosistémicos; el pasto aporta la base de la dieta; el ganado aprovecha ambos y fertiliza con estiércol."
   },
   {
     "term": "Suelo esquelético",
-    "abbreviation": "",
-    "definition": "Suelo muy somero (<20 cm de profundidad), con abundante roca visible, pedregoso, de baja fertilidad y poca capacidad de retención de agua. Común en terrenos kársticos, laderas erosionadas y lomeríos. Pocas especies agrícolas prosperan, pero algunas forrajeras nativas están adaptadas."
+    "abbreviation": null,
+    "definition": "Suelo extremadamente delgado, con poca o ninguna capa de tierra sobre la roca madre. Común en zonas de karst, laderas erosionadas y terrenos volcánicos jóvenes."
   },
   {
     "term": "Synergistes jonesii",
-    "abbreviation": "",
-    "definition": "Bacteria ruminal capaz de degradar el DHP (dihidroxipiridina), metabolito tóxico de la mimosina de Leucaena. Presente naturalmente en el rumen de bovinos en regiones donde Leucaena es nativa (Centroamérica, norte de Sudamérica). En Australia se introdujo por transfaunación. Sin ella, el consumo prolongado de Leucaena causa toxicidad."
+    "abbreviation": null,
+    "definition": "Bacteria ruminal que degrada la mimosina y sus derivados tóxicos (DHP). Presente naturalmente en bovinos de regiones donde la leucaena es nativa; puede transferirse entre animales por contacto o mediante transfaunación."
   },
   {
     "term": "t MS/ha/año",
-    "abbreviation": "",
-    "definition": "Toneladas de materia seca por hectárea por año. Unidad estándar para expresar la productividad de un forraje. Permite comparar rendimientos independientemente de la humedad. Una gramínea tropical bien manejada produce 10–20 t MS/ha/año; una leguminosa arbórea en banco de proteína: 5–15."
+    "abbreviation": null,
+    "definition": "Toneladas de materia seca por hectárea por año. Unidad estándar para medir la productividad de un cultivo forrajero. Permite comparar especies eliminando la variable del agua."
   },
   {
     "term": "Taninos condensados",
-    "abbreviation": "TC",
-    "definition": "Polifenoles que se unen a proteínas formando complejos insolubles. En concentraciones bajas-moderadas (2–4% MS) son beneficiosos: protegen proteína de degradación ruminal excesiva (efecto by-pass), reducen timpanismo y parásitos gastrointestinales. En exceso (>6%) reducen consumo y digestibilidad."
+    "abbreviation": null,
+    "definition": "Compuestos polifenólicos presentes en muchas plantas que se unen a las proteínas. En cantidades moderadas (2–5%) son beneficiosos: reducen el timpanismo, protegen la proteína de la degradación excesiva en rumen y tienen efecto antiparasitario. En exceso (>8%) deprimen el consumo y la digestibilidad."
   },
   {
     "term": "Timpanismo",
-    "abbreviation": "",
-    "definition": "Meteorismo o empanzamiento. Acumulación excesiva de gas (espuma estable) en el rumen que impide su expulsión por eructo. Puede ser mortal en minutos. Causado por leguminosas de alta proteína soluble (alfalfa, trébol) que generan espuma. Los taninos condensados lo previenen."
+    "abbreviation": null,
+    "definition": "Distensión del rumen por acumulación de gas (espuma estable) que el animal no puede eructar. Es una emergencia veterinaria que puede matar en horas. Ocurre cuando se consumen leguminosas suculentas sin taninos en exceso (alfalfa, tréboles, veza). Las leguminosas con taninos condensados (esparceta, lotus, lespedeza) NO causan timpanismo."
   },
   {
     "term": "TMR",
     "abbreviation": "TMR",
-    "definition": "Total Mixed Ration (Ración Total Mezclada). Sistema de alimentación donde todos los ingredientes (forraje, concentrado, minerales, aditivos) se mezclan homogéneamente y se ofrecen ad libitum. Cada bocado tiene la misma composición. Estándar en lecherías intensivas."
+    "definition": "Ración Totalmente Mezclada. Sistema de alimentación donde todos los ingredientes (forraje, concentrado, suplementos) se mezclan homogéneamente en un carro mezclador antes de ofrecerlos al ganado. Impide que el animal seleccione solo lo que le gusta."
   },
   {
     "term": "Transfaunación",
-    "abbreviation": "",
-    "definition": "Transferencia de contenido ruminal (líquido + microorganismos) de un animal donador a otro receptor. Se usa para establecer poblaciones microbianas específicas (como Synergistes jonesii para degradar mimosina) o para tratar acidosis y otras disbiosis ruminales."
+    "abbreviation": null,
+    "definition": "Transferencia de líquido ruminal de un animal a otro para inocular microorganismos benéficos. Se usa para transferir Synergistes jonesii entre animales que no degradan mimosina."
   },
   {
     "term": "Urea",
-    "abbreviation": "",
-    "definition": "Compuesto nitrogenado no proteico [CO(NH₂)₂] con 46% de nitrógeno, equivalente a 287% de proteína cruda. Es la fuente de NNP más usada en ganadería. En el rumen se hidroliza a amonio, que los microorganismos usan para sintetizar proteína microbiana, SOLO si hay energía fermentable disponible. Tóxica si se administra sin adaptación o sin energía. Dosis: 0.3–0.5 g/kg PV/día."
+    "abbreviation": null,
+    "definition": "Compuesto químico (CO(NH₂)₂) con 46% de nitrógeno. Es la fuente de NNP más usada en ganadería. Los microbios del rumen la convierten en amoniaco y luego en proteína microbiana, siempre y cuando haya energía fermentable disponible al mismo tiempo. Tóxica si se consume en exceso o sin la energía adecuada."
   }
 ]
