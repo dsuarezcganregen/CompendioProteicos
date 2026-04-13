@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-primary: #0D0D0D;
+  --color-bg-card: #161616;
+  --color-bg-alt: #1E1E1E;
+  --color-text-primary: #F0F0EC;
+  --color-text-secondary: #C8C8C0;
+  --color-text-muted: #888880;
+  --color-green-brand: #02AE70;
+  --color-green-dark: #028A59;
+  --color-green-light: #33C98D;
+  --color-cat-nnp: #E65100;
+  --color-cat-subproducto: #8B6914;
+  --color-cat-tropical: #02AE70;
+  --color-cat-templado: #2E86AB;
+  --color-cat-biclimatica: #7B4BAA;
+  --color-benefit-bg: #0A1F15;
+  --color-benefit-border: #02AE70;
+  --color-risk-bg: #1F1510;
+  --color-risk-border: #F5A623;
+  --font-heading: Georgia, serif;
+  --font-body: ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-body);
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.glossary-term {
+  border-bottom: 1px dotted var(--color-green-brand);
+  cursor: help;
+  position: relative;
+}
