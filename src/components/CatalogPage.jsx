@@ -6,6 +6,8 @@ import SearchBar from './SearchBar'
 import Filters from './Filters'
 import SpeciesCard from './SpeciesCard'
 
+const PROTEIN_MAX = Math.max(...speciesData.map(s => s.proteinMax))
+
 export default function CatalogPage() {
   const [searchParams] = useSearchParams()
   const [search, setSearch] = useState(searchParams.get('q') || '')
@@ -14,7 +16,7 @@ export default function CatalogPage() {
     subcategory: '',
     climate: '',
     proteinMin: 0,
-    proteinMax: 50,
+    proteinMax: PROTEIN_MAX,
   })
 
   useEffect(() => {

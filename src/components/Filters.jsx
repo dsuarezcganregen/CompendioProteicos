@@ -1,5 +1,6 @@
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 import { SECTIONS } from '../utils/categories'
+import speciesData from '../data/species.json'
 
 const SUBCATEGORIES = [
   { value: 'tropical_arborea', label: 'Arbórea tropical' },
@@ -18,6 +19,8 @@ const CLIMATES = [
   { value: 'biclimatico', label: 'Biclimático' },
   { value: 'cualquiera', label: 'Cualquiera' },
 ]
+
+const PROTEIN_MAX = Math.max(...speciesData.map(s => s.proteinMax))
 
 export default function Filters({ filters, onChange }) {
   const [open, setOpen] = useState(false)
@@ -100,7 +103,7 @@ export default function Filters({ filters, onChange }) {
           <input
             type="range"
             min="0"
-            max="50"
+            max={PROTEIN_MAX}
             value={filters.proteinMin}
             onChange={(e) => setFilter('proteinMin', Math.min(Number(e.target.value), filters.proteinMax))}
             className="flex-1 accent-green-brand"
@@ -108,12 +111,12 @@ export default function Filters({ filters, onChange }) {
           <input
             type="range"
             min="0"
-            max="50"
+            max={PROTEIN_MAX}
             value={filters.proteinMax}
             onChange={(e) => setFilter('proteinMax', Math.max(Number(e.target.value), filters.proteinMin))}
             className="flex-1 accent-green-brand"
           />
-          <span className="text-text-muted text-xs">50%</span>
+          <span className="text-text-muted text-xs">{PROTEIN_MAX}%</span>
         </div>
       </div>
     </div>
